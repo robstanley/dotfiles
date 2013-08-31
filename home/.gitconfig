@@ -1,3 +1,10 @@
 [user]
 	name = Rob Stanley
-	email = robstanley@gmail.com
+	email = robs@brandwatch.com
+[core]
+	editor = vim
+	whitespace = trailing-space
+[merge]
+	tool = vimdiff
+[color]
+	ui = true
